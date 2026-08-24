@@ -16,11 +16,9 @@ I also have a strong background in algorithms and competitive programming. My Co
 Research Interests
 ======
 
-- Electronic Design Automation
-- Physical Design and Global Placement
-- Routability and Congestion Optimization
-- Logic Synthesis
-- Machine Learning for EDA
+- VLSI Physical Design
+- Agentic EDA
+- Self-Evolving Agents
 
 News
 ======

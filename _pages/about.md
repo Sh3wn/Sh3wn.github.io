@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Electronic Design Automation (EDA) in the joint program between [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) and the [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/). I am a member of the ECOS Group at ICT, CAS, supervised by Dr. Biwei Xie in Prof. Yungang Bao's team.
+I am a master's student specializing in Electronic Design Automation (EDA) in the joint graduate program between [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) and the [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/). I am a member of the ECOS Group at ICT, advised by Dr. Biwei Xie in Prof. Yungang Bao's group.
 
-My research focuses on algorithms and optimization for chip design automation, particularly routability-driven global placement. I am interested in combining domain knowledge, mathematical optimization, and learning-based techniques to build practical and reliable EDA systems.
+My research focuses on EDA algorithms for VLSI physical design, particularly routability-driven analytical placement. I am interested in combining domain-specific modeling, mathematical optimization, and learning-based methods to solve practical chip-design problems. I am also exploring Agentic EDA and self-evolving agents for automating complex design and optimization workflows.
 
-I also have a strong background in algorithms and competitive programming. My Codeforces rating reached **2413 (Grandmaster)**. During my undergraduate study, I received the Zhejiang Government Scholarship twice and was named a **2024 Zhejiang Outstanding Graduate**.
+I have a background in algorithms and competitive programming, with a peak Codeforces rating of **2413 (Grandmaster)**. As an undergraduate, I received the Zhejiang Government Scholarship twice and was named a **2024 Zhejiang Outstanding Graduate**.
 
 ## Research Interests
 

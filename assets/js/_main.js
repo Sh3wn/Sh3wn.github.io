@@ -27,17 +27,22 @@ function determineComputedTheme() {
 
 // Set the theme on page load or when explicitly called
 function setTheme(theme) {
-  const use_theme = theme ||
-    localStorage.getItem("theme") ||
-    $("html").attr("data-theme") ||
-    browserPref;
+  const use_theme = theme || determineComputedTheme();
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
     $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
+    $("#theme-toggle").attr({
+      "aria-label": "Switch to light theme",
+      "title": "Switch to light theme"
+    });
   } else if (use_theme === "light") {
     $("html").removeAttr("data-theme");
     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+    $("#theme-toggle").attr({
+      "aria-label": "Switch to dark theme",
+      "title": "Switch to dark theme"
+    });
   }
 }
 
@@ -175,6 +180,10 @@ $(document).ready(function () {
   $(".author__urls-wrapper button").on("click", function () {
     $(".author__urls").fadeToggle("fast", function () { });
     $(".author__urls-wrapper button").toggleClass("open");
+    const isOpen = $(".author__urls-wrapper button").hasClass("open");
+    $(".author__urls-wrapper button")
+      .attr("aria-expanded", isOpen)
+      .attr("aria-label", isOpen ? "Hide contact and profile links" : "Show contact and profile links");
   });
 
   // Restore the follow menu if toggled on a window resize

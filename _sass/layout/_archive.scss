@@ -27,6 +27,25 @@
   }
 }
 
+.cv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.cv-preview {
+  display: block;
+  width: 100%;
+  height: 75vh;
+  min-height: 640px;
+  border: 1px solid var(--global-border-color);
+
+  @media screen and (max-width: 600px) {
+    min-height: 480px;
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;

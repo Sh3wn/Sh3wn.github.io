@@ -13,23 +13,20 @@ My research focuses on algorithms and optimization for chip design automation, p
 
 I also have a strong background in algorithms and competitive programming. My Codeforces rating reached **2413 (Grandmaster)**. During my undergraduate study, I received the Zhejiang Government Scholarship twice and was named a **2024 Zhejiang Outstanding Graduate**.
 
-Research Interests
-======
+## Research Interests
 
 - VLSI Physical Design
 - Agentic EDA
 - Self-Evolving Agents
 
-News
-======
+## News
 
 - **Dec. 2025:** Won the championship at EDAthon 2025.
 - **Sep. 2024:** Started the joint master's program at ShanghaiTech University and ICT, CAS.
 - **Jun. 2024:** Named a 2024 Zhejiang Outstanding Graduate.
 - **May 2023:** Won a silver medal at the ACM-ICPC China Shaanxi Invitational Contest.
 
-Selected Links
-======
+## Selected Links
 
 - [Research experience](/research/)
 - [Selected projects](/portfolio/)

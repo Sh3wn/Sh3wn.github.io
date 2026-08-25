@@ -29,6 +29,7 @@ I also have a strong background in algorithms and competitive programming. My Co
 ## Selected Links
 
 - [Research experience](/research/)
+- [Professional experience](/experience/)
 - [Selected projects](/portfolio/)
 - [Curriculum vitae](/cv/)
 - [Download CV (PDF)](/files/resume-en.pdf)

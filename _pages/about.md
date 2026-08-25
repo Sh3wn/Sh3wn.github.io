@@ -32,5 +32,6 @@ My background in algorithms and competitive programming strongly influences how 
 - [Research experience](/research/)
 - [Professional experience](/experience/)
 - [Selected projects](/portfolio/)
+- [Honors and awards](/honors/)
 - [Curriculum vitae](/cv/)
 - [Download CV (PDF)](/files/resume-en.pdf)

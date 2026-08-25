@@ -26,7 +26,6 @@ My background in algorithms and competitive programming strongly influences how 
 - **Dec. 2025:** Won the championship at EDAthon 2025.
 - **Sep. 2024:** Started the joint master's program at ShanghaiTech University and ICT, CAS.
 - **Jun. 2024:** Named a 2024 Zhejiang Outstanding Graduate.
-- **May 2023:** Won a silver medal at the ACM-ICPC China Shaanxi Invitational Contest.
 
 ## Selected Links
 

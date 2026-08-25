@@ -18,7 +18,3 @@ My current work studies routability optimization during analytical global placem
 - Designed an optimization pipeline for 3D Gaussian Splatting that introduces ZoeDepth depth estimation and SAM semantic segmentation as training priors.
 - Developed a joint loss combining RGB, depth, and smoothness regularization to improve rendering quality and depth consistency.
 - Conducted ablation studies on the WAT (World Across Time) dataset. The depth-smoothness constrained model improved PSNR compared with vanilla 3DGS.
-
-## Research Direction
-
-I am particularly interested in optimization methods that connect accurate domain models with efficient, differentiable, or learning-based search. My long-term goal is to develop EDA algorithms that remain robust on realistic large-scale designs.

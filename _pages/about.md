@@ -15,7 +15,7 @@ I also have a strong background in algorithms and competitive programming. My Co
 
 ## Research Interests
 
-- VLSI Physical Design
+- EDA for VLSI Physical Design
 - Agentic EDA
 - Self-Evolving Agents
 

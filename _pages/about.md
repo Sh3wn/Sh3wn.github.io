@@ -9,9 +9,11 @@ redirect_from:
 
 I am a master's student specializing in Electronic Design Automation (EDA) in the joint graduate program between [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) and the [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/). I am a member of the ECOS Group at ICT, advised by Dr. Biwei Xie in Prof. Yungang Bao's group.
 
-My research focuses on EDA algorithms for VLSI physical design, particularly routability-driven analytical placement. I am interested in combining domain-specific modeling, mathematical optimization, and learning-based methods to solve practical chip-design problems. I am also exploring Agentic EDA and self-evolving agents for automating complex design and optimization workflows.
+My current research focuses on Electronic Design Automation (EDA) for VLSI physical design. I am working on optimization models that incorporate congestion awareness into analytical placement. The goal of this project is to improve routability without sacrificing placement quality or computational efficiency on realistic large-scale designs.
 
-I have a background in algorithms and competitive programming, with a peak Codeforces rating of **2413 (Grandmaster)**. As an undergraduate, I received the Zhejiang Government Scholarship twice and was named a **2024 Zhejiang Outstanding Graduate**.
+I am also interested in how AI can interact with engineering tools, learn from iterative feedback, and progressively improve its problem-solving strategies. I hope to build design automation systems that are both capable and reliable in complex workflows.
+
+My background in algorithms and competitive programming strongly influences how I approach research. I reached a peak Codeforces rating of **2413 (Grandmaster)** and enjoy turning difficult optimization problems into precise and efficient solutions.
 
 ## Research Interests
 
